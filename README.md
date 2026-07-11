@@ -2,41 +2,37 @@
 
 ### Senior Software Engineer | .NET, APIs, Data Platforms, AI & Automation
 
-I build maintainable software that turns operational problems into working products: enterprise applications, APIs, data platforms, offline-first PWAs, integrations, automation, and AI-assisted workflows.
+I build maintainable production software that turns operational problems into working systems: enterprise applications, APIs, data platforms, offline-first PWAs, integrations, document workflows, automation, and AI-enabled products.
 
-My core background is **C#/.NET and SQL Server**, with current hands-on work in **ASP.NET Core, Python/FastAPI, TypeScript, Vue, Next.js, PostgreSQL, Docker, Azure, AWS, GitHub Actions, and cloud/local LLM integrations**.
+My deepest background is **C#/.NET and SQL Server**, supported by current hands-on work in **ASP.NET Core, Python/FastAPI, TypeScript, Vue, Next.js, PostgreSQL, MongoDB, Docker, Azure, AWS, GitHub Actions, and cloud/local LLM integrations**.
 
-- **25+ years** building technology and software solutions
-- Founder of **LODEX Software**, established October 2000
+- **20+ years** of professional software-development experience
+- **23 years** working in technology
+- Founder of **LODEX Software**
 - Experience across full-time, contract, consulting, product, and technical-leadership engagements
-- Open to remote full-time, contract, consulting, and product-development work
+- Open to remote full-time, contract, C2C, consulting, and product-development work
 
 ## 🚀 Featured Work
 
+### [Professional Legal & Tax Assistant](https://github.com/george-shepov/professional_legal_tax_assistant)
+
+FastAPI and Next.js workspace for document ingestion, source-grounded retrieval, case management, multi-agent analysis, controlled access, and self-hosted production deployment.
+
+### [Docket Intelligence Workbench](https://github.com/george-shepov/docket-intelligence-workbench)
+
+Court-record monitoring, immutable snapshots, change detection, filing organization, searchable timelines, and source-grounded analysis.
+
 ### [FieldKit](https://github.com/george-shepov/FieldKit)
 
-Offline-first application suite and launcher for productivity, training, legal, field, privacy, media, and business workflows.
-
-- Go launcher and static Progressive Web Apps
-- Service workers and installable offline tools
-- Shared navigation, authentication, privacy, and UI components
-- Developer interview-preparation module and reusable learning tools
-
-### [Developer Interview Prep](https://github.com/george-shepov/developer-interview-prep)
-
-Installable interview-reference PWA covering SQL, .NET, JavaScript, behavioral questions, position analysis, searchable decks, bookmarks, notes, import/export, and offline use.
+Offline-first application suite and Go launcher for productivity, training, legal, field, privacy, media, and business workflows.
 
 ### [OneOf Listing Assistant](https://github.com/george-shepov/OneOf-Listing-Assistant)
 
-Phone-first inventory intake and marketplace-listing workflow using IndexedDB with an ASP.NET Core .NET 8 companion API and protected eBay integration.
+Phone-first inventory intake and marketplace-publishing workflow using IndexedDB with an ASP.NET Core .NET 8 companion API and protected eBay integration.
 
-### Professional Legal & Tax Assistant
+### [Developer Interview Prep](https://github.com/george-shepov/developer-interview-prep)
 
-FastAPI and Next.js workspace for document ingestion, retrieval-augmented search, case management, document workflows, multi-agent assistance, controlled access, and production deployment.
-
-### Docket Intelligence Workbench
-
-Public-record ingestion, normalization, PDF acquisition, change detection, audit, querying, monitoring, analytics, and visualization for a dataset exceeding 20,000 docket records.
+Installable interview-reference PWA with searchable study decks, bookmarks, notes, import/export, accessibility controls, and offline use.
 
 ## 🛠️ Technology
 
@@ -51,7 +47,7 @@ Public-record ingestion, normalization, PDF acquisition, change detection, audit
 
 I have delivered software for KAG Logistics, Harley-Davidson, IntelliCorp Records, Broadvox/CloudRoute, Compellotech Consulting, Price for Profit, Cleveland Metropolitan School District, Alcoa, Litigation Management, Flight Options/Flexjet, Bridgestone/Firestone, and North East Ohio Health Services.
 
-Many assignments were **contract or consulting engagements**, including Harley-Davidson, IntelliCorp, Alcoa, Cleveland Metropolitan School District, Flight Options/Flexjet, and Bridgestone/Firestone. LODEX Software has operated intermittently alongside client engagements since October 2000.
+My work spans transportation, telecommunications, manufacturing, legal technology, education, healthcare, pricing analytics, background screening, aviation, e-commerce, and AI-enabled workflow automation.
 
 ## 🎓 Education & Publications
 
@@ -61,7 +57,9 @@ Many assignments were **contract or consulting engagements**, including Harley-D
 
 ## 📫 Contact
 
+- **Phone:** [440-601-8001](tel:+14406018001)
 - **Email:** [gshepov@proton.me](mailto:gshepov@proton.me)
 - **LinkedIn:** [linkedin.com/in/giorgiy-shepov](https://www.linkedin.com/in/giorgiy-shepov)
 - **Résumé & portfolio:** [george-shepov.github.io/Resume](https://george-shepov.github.io/Resume/)
+- **Profile source of truth:** [Resume/PROFILE_SOURCE_OF_TRUTH.md](https://github.com/george-shepov/Resume/blob/master/PROFILE_SOURCE_OF_TRUTH.md)
 - **Location:** Cleveland, Ohio
